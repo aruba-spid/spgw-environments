@@ -1,0 +1,14 @@
+﻿demo
+prod
+*/metadata-idp.json
+*/metadata-sp-signature.crt
+*/metadata-sp-signature.csr
+*/metadata-sp-signature.key
+*/metadata-sp-unsigned.xml
+*/saml-signing.crt
+*/saml-signing.csr
+*/saml-signing.key
+*/spgw.sh
+test/stresstest/spgw-be-saml-resources.lnk
+test/stresstest/idpstresstest.cert
+test/stresstest/idpstresstest.key

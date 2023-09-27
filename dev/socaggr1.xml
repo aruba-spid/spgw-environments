@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" ID="_459f9d45-b483-433c-a74c-aade7eda0292" entityID="https://aggregatorespid.devops.aruba.it/pri-ag-full/socaggr1" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:spid="https://spid.gov.it/saml-extensions" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference URI="#_459f9d45-b483-433c-a74c-aade7eda0292"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>Z8drfVKzceiUsJyq0ziJB/ws806UItXmYmr89Tdz1kY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>d6jXDr8GorarNPKIQTfHUgQMxifoU/hAYuO5xpDH9OsZjEPSz+GtLZ/iEu2zFXV3OyahB0ZQUwpck1wWTP7jyJLLU3l3zC6D4v31THA/llJpO/fi0KYL5bngKxMyMdw4MoN8lVbv35jDgVBMXzl+n++kwjUqXalXwdXbhteLanl0Uq7lMf2VggTjDcJr+LlI2c9DJSkic0527saaRtayk4ZHTToXqdXz5+oJ0M4+BswGQsMYZWSvHUellAcTYfnAvofUE9i6MxswU2WJqVzxmQbaEpNTqDVZObZgX/dEg8X7sdE8YgZp3EhZTIB5bHG9IMnUdapeNa+HOcC5emuRRg==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIID+TCCAuECFDKCyFlLxligTuvOa020Wy2AffmBMA0GCSqGSIb3DQEBCwUAMIG4MRkwFwYDVQQK
+DBBBcnViYSBQRUMgUy5wLkEuMRkwFwYDVQQDDBBBcnViYSBQRUMgUy5wLkEuMTwwOgYDVQRTDDNo
+dHRwczovL2FnZ3JlZ2F0b3Jlc3BpZC5kZXZvcHMuYXJ1YmEuaXQvcHJpLWFnLWZ1bGwxGjAYBgNV
+BGEMEVZBVElULTAxODc5MDIwNTE3MQswCQYDVQQGEwJJVDEZMBcGA1UEBwwQUG9udGUgU2FuIFBp
+ZXRybzAeFw0yMzA3MTQwNjM1MzJaFw0zMzA3MTEwNjM1MzJaMIG4MRkwFwYDVQQKDBBBcnViYSBQ
+RUMgUy5wLkEuMRkwFwYDVQQDDBBBcnViYSBQRUMgUy5wLkEuMTwwOgYDVQRTDDNodHRwczovL2Fn
+Z3JlZ2F0b3Jlc3BpZC5kZXZvcHMuYXJ1YmEuaXQvcHJpLWFnLWZ1bGwxGjAYBgNVBGEMEVZBVElU
+LTAxODc5MDIwNTE3MQswCQYDVQQGEwJJVDEZMBcGA1UEBwwQUG9udGUgU2FuIFBpZXRybzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJppDgdWsboyK4X0FnREPk9WfA1Fn2F6TsHJrYHI
+iFaWlTy2MOKwNPnvsrEmitlGqcOQHUgjBU1ViEO/8xKaLTQSoimmtN/OylTxRV64B7xt6btTAHWn
+iIwO1CdmY4qt86Vlxc2Ic0VGYg9O4MalTxV6SEREoEUyQjvFmkJOR+y0wJVaVdmPLR/Y7aQGshQD
+kV5ErfDGjxf2R+wRODYOkoqdNQp6+8XnEh4RooCWMMz+rwFxgtcqHDUytFwlAlB2n2JA15SvDRt6
+7pWSvT3qB6CwNAYWAi5ufOKY6DSaq6C795MhGFSgGVUwKzu3bCmVYyyLM3Fyy5hm9cttgfbZJYsC
+AwEAATANBgkqhkiG9w0BAQsFAAOCAQEAkTkXiD/k23Uo9g+46aC1mSWTfywZe7yZHqjAhClcZ9c7
+5bsXJ+fEEgAJSoevPNjcQHiY5GS9EblLotuZe/MWOuR1SBntAJd4XcISW3WB0wdIXZOxMBFMVyxa
+O7i/IiVBveD+Ot36Wg/qx9VBaF+H4LFReKASzVhFQkrOFUbLVvN10i5R0Nh3tOJAWOLSvE9jqCI2
+m8i/jEUq/3KF6k/YnUyMlmzGAx2llRIY2XpOpktiFcVhv8pH4Xvw+Nm0EtA1a0hA8iXwRhYcZupg
+yRJMNKxfH9SaZFN6efKTT6Z4zuzG7aVCRgDKIXnC/b1ZZ5Lodgl+uAFFtKTdpJcgVvhFWQ==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature><md:SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIID+TCCAuECFDKCyFlLxligTuvOa020Wy2AffmBMA0GCSqGSIb3DQEBCwUAMIG4
+MRkwFwYDVQQKDBBBcnViYSBQRUMgUy5wLkEuMRkwFwYDVQQDDBBBcnViYSBQRUMg
+Uy5wLkEuMTwwOgYDVQRTDDNodHRwczovL2FnZ3JlZ2F0b3Jlc3BpZC5kZXZvcHMu
+YXJ1YmEuaXQvcHJpLWFnLWZ1bGwxGjAYBgNVBGEMEVZBVElULTAxODc5MDIwNTE3
+MQswCQYDVQQGEwJJVDEZMBcGA1UEBwwQUG9udGUgU2FuIFBpZXRybzAeFw0yMzA3
+MTQwNjM1MzJaFw0zMzA3MTEwNjM1MzJaMIG4MRkwFwYDVQQKDBBBcnViYSBQRUMg
+Uy5wLkEuMRkwFwYDVQQDDBBBcnViYSBQRUMgUy5wLkEuMTwwOgYDVQRTDDNodHRw
+czovL2FnZ3JlZ2F0b3Jlc3BpZC5kZXZvcHMuYXJ1YmEuaXQvcHJpLWFnLWZ1bGwx
+GjAYBgNVBGEMEVZBVElULTAxODc5MDIwNTE3MQswCQYDVQQGEwJJVDEZMBcGA1UE
+BwwQUG9udGUgU2FuIFBpZXRybzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAJppDgdWsboyK4X0FnREPk9WfA1Fn2F6TsHJrYHIiFaWlTy2MOKwNPnvsrEm
+itlGqcOQHUgjBU1ViEO/8xKaLTQSoimmtN/OylTxRV64B7xt6btTAHWniIwO1Cdm
+Y4qt86Vlxc2Ic0VGYg9O4MalTxV6SEREoEUyQjvFmkJOR+y0wJVaVdmPLR/Y7aQG
+shQDkV5ErfDGjxf2R+wRODYOkoqdNQp6+8XnEh4RooCWMMz+rwFxgtcqHDUytFwl
+AlB2n2JA15SvDRt67pWSvT3qB6CwNAYWAi5ufOKY6DSaq6C795MhGFSgGVUwKzu3
+bCmVYyyLM3Fyy5hm9cttgfbZJYsCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAkTkX
+iD/k23Uo9g+46aC1mSWTfywZe7yZHqjAhClcZ9c75bsXJ+fEEgAJSoevPNjcQHiY
+5GS9EblLotuZe/MWOuR1SBntAJd4XcISW3WB0wdIXZOxMBFMVyxaO7i/IiVBveD+
+Ot36Wg/qx9VBaF+H4LFReKASzVhFQkrOFUbLVvN10i5R0Nh3tOJAWOLSvE9jqCI2
+m8i/jEUq/3KF6k/YnUyMlmzGAx2llRIY2XpOpktiFcVhv8pH4Xvw+Nm0EtA1a0hA
+8iXwRhYcZupgyRJMNKxfH9SaZFN6efKTT6Z4zuzG7aVCRgDKIXnC/b1ZZ5Lodgl+
+uAFFtKTdpJcgVvhFWQ==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://id.identitymaster.it/saml/logout"/><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://id.identitymaster.it/saml/logout"/><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat><md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://aggregatorespid.devops.aruba.it/saml/SSO" index="0" isDefault="true"/><md:AttributeConsumingService index="0"><md:ServiceName xml:lang="it">SET 0</md:ServiceName><md:ServiceDescription xml:lang="it">SET nr 0 -</md:ServiceDescription><md:RequestedAttribute Name="spidCode" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/><md:RequestedAttribute Name="fiscalNumber" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/><md:RequestedAttribute Name="name" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/><md:RequestedAttribute Name="familyName" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/></md:AttributeConsumingService></md:SPSSODescriptor><md:Organization><md:OrganizationName xml:lang="it">Societa Aggregata 1</md:OrganizationName><md:OrganizationDisplayName xml:lang="it">Societa Aggregata 1</md:OrganizationDisplayName><md:OrganizationURL xml:lang="it">https://societaaggregata.it</md:OrganizationURL></md:Organization><md:ContactPerson contactType="other" spid:entityType="spid:aggregator"><md:Extensions><spid:VATNumber>IT01879020517</spid:VATNumber><spid:IPACode/><spid:PrivateServicesFullAggregator/></md:Extensions><md:Company>Aruba PEC S.p.A.</md:Company><md:EmailAddress>aruba@aruba.pec.it</md:EmailAddress><md:TelephoneNumber/></md:ContactPerson><md:ContactPerson contactType="other" spid:entityType="spid:aggregated"><md:Extensions><spid:VATNumber>1234567890</spid:VATNumber><spid:Private/></md:Extensions><md:Company>Societa Aggregata 1</md:Company></md:ContactPerson><md:ContactPerson contactType="billing"><md:Extensions xmlns:fpa="https://spid.gov.it/invoicing-extensions"><fpa:CessionarioCommittente><fpa:DatiAnagrafici><fpa:IdFiscaleIVA><fpa:IdPaese>IT</fpa:IdPaese><fpa:IdCodice>01879020517</fpa:IdCodice></fpa:IdFiscaleIVA><fpa:Anagrafica><fpa:Denominazione>Aruba PEC S.p.A.</fpa:Denominazione></fpa:Anagrafica></fpa:DatiAnagrafici><fpa:Sede><fpa:Indirizzo>Via San Clemente</fpa:Indirizzo><fpa:NumeroCivico>53</fpa:NumeroCivico><fpa:CAP>24036</fpa:CAP><fpa:Comune>Ponte San Pietro</fpa:Comune><fpa:Provincia>BG</fpa:Provincia><fpa:Nazione>IT</fpa:Nazione></fpa:Sede></fpa:CessionarioCommittente></md:Extensions><md:Company>Aruba PEC S.p.A.</md:Company><md:EmailAddress>aruba@aruba.pec.it</md:EmailAddress><md:TelephoneNumber/></md:ContactPerson></md:EntityDescriptor>

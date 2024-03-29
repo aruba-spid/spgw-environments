@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" ID="_e0c57816-39e4-4c1f-9da2-cc51a619b76d" entityID="https://aggregatorespid.devops.aruba.it/pub-ag-full/arubapec-pub" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:spid="https://spid.gov.it/saml-extensions" xmlns:xml="http://www.w3.org/XML/1998/namespace"><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference URI="#_e0c57816-39e4-4c1f-9da2-cc51a619b76d"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>RYeDjHZTxHlvR2uTfGF4dq5owUHM1rv38UP0Q9TAY/U=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>WKKgMK19DYOVjBLaz0xvX+i08i2UwrgxgA2USdumVNzdpFkBHKD0Lu/2FvttCjDgaL2rIw1oW61omSB5EHNnoD+bstzD5Q/F4FeKGM9rFZN2ZD2ODS4SMDSOqFTfbxUyICFPvAnF1oJzA0O0LJugFEBc+eC8INLgYLyz9ELB7Wz/K4ZAQK2K3zwFTKeJNSdx+B9XBb8y6/wq52x0VQRPaU2KJDmLs02UQh6TFYW0ZCNTUCzWEZpQVxbS+w7IQY3Zsz5ylrE7uM/H872AmOTVGGeqhRfllF/qEJXXGY4J3FuiKDoD1Z13Q6WafB2KU5EG3DxqMsl9LfzD2mFtrmEONQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIID+TCCAuECFFxvrVqOrSDbStuQsfzu/gk0R1ztMA0GCSqGSIb3DQEBCwUAMIG4MRkwFwYDVQQK
+DBBBcnViYSBQRUMgUy5wLkEuMRkwFwYDVQQDDBBBcnViYSBQRUMgUy5wLkEuMTwwOgYDVQRTDDNo
+dHRwczovL2FnZ3JlZ2F0b3Jlc3BpZC5kZXZvcHMuYXJ1YmEuaXQvcHViLWFnLWZ1bGwxGjAYBgNV
+BGEMEVZBVElULTAxODc5MDIwNTE3MQswCQYDVQQGEwJJVDEZMBcGA1UEBwwQUG9udGUgU2FuIFBp
+ZXRybzAeFw0yNDAzMjkxNTA1NTNaFw0zNDAzMjcxNTA1NTNaMIG4MRkwFwYDVQQKDBBBcnViYSBQ
+RUMgUy5wLkEuMRkwFwYDVQQDDBBBcnViYSBQRUMgUy5wLkEuMTwwOgYDVQRTDDNodHRwczovL2Fn
+Z3JlZ2F0b3Jlc3BpZC5kZXZvcHMuYXJ1YmEuaXQvcHViLWFnLWZ1bGwxGjAYBgNVBGEMEVZBVElU
+LTAxODc5MDIwNTE3MQswCQYDVQQGEwJJVDEZMBcGA1UEBwwQUG9udGUgU2FuIFBpZXRybzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAITceYxBk9+UXEhyhfw2ODXbY6o8NQPZU+/9pG0e
++zf+3k8JUhIEgeuI+gaCIQfBDqCQztanTxBMPoPcQ2v+tkdgNQAmkxC5PW82AcTrLPd+4BbjM424
+2RX158oTZJvwThLvhRiZhlVM8Hn2HAIbbtPXkGh6LvyIq5Z3IKnKNM8oP0caHk9si/gq0pfyqAiU
+tdXfhxLBqRp/pRsIbKrjvyYsx8V5zWX7THSas8NBM129OcjYAP43d3qNhW4OcojpE2/1dQ2Qkxnr
+892oUG15DIaKTAOtbVasNyurob2+Vv86Pqq22HomCjFMrjqJ3v4a/NNjUKAKsUgM7vSq0x+mz4cC
+AwEAATANBgkqhkiG9w0BAQsFAAOCAQEALHE1xmy7wvR61HGIdIjS46p0s44ld3Xn1fVvFIyJ32Uo
+4Pxq6qZy+/c/2Hmfy8aQVaSrw7Fji91wPtbj1jGCpsd01r971as++9Lff0eyGefvWnhG4B5glKcy
+6PTxJwb1Wh0Iehs/VcdQT9S6RBk6OlUP+R8/ttMwZjvFsi7huh0u7s/TqbyxSntJMxfXu2hXLClW
+c22a4toCepfBFDzVrbCh/Y2++WNk8rD0L+8Kmg+UEpICQ+Y/o3Ih0OyKGVGleha5aWUYjGW2NG5X
+/zrkDNihINRTooCm4ppI4hjXuCynm5KkQ3i4tSA4wwEnG/knN0exFC7MIzML5qOwbOmOww==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature><md:SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol"><md:KeyDescriptor use="signing"><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIID+TCCAuECFFxvrVqOrSDbStuQsfzu/gk0R1ztMA0GCSqGSIb3DQEBCwUAMIG4
+MRkwFwYDVQQKDBBBcnViYSBQRUMgUy5wLkEuMRkwFwYDVQQDDBBBcnViYSBQRUMg
+Uy5wLkEuMTwwOgYDVQRTDDNodHRwczovL2FnZ3JlZ2F0b3Jlc3BpZC5kZXZvcHMu
+YXJ1YmEuaXQvcHViLWFnLWZ1bGwxGjAYBgNVBGEMEVZBVElULTAxODc5MDIwNTE3
+MQswCQYDVQQGEwJJVDEZMBcGA1UEBwwQUG9udGUgU2FuIFBpZXRybzAeFw0yNDAz
+MjkxNTA1NTNaFw0zNDAzMjcxNTA1NTNaMIG4MRkwFwYDVQQKDBBBcnViYSBQRUMg
+Uy5wLkEuMRkwFwYDVQQDDBBBcnViYSBQRUMgUy5wLkEuMTwwOgYDVQRTDDNodHRw
+czovL2FnZ3JlZ2F0b3Jlc3BpZC5kZXZvcHMuYXJ1YmEuaXQvcHViLWFnLWZ1bGwx
+GjAYBgNVBGEMEVZBVElULTAxODc5MDIwNTE3MQswCQYDVQQGEwJJVDEZMBcGA1UE
+BwwQUG9udGUgU2FuIFBpZXRybzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAITceYxBk9+UXEhyhfw2ODXbY6o8NQPZU+/9pG0e+zf+3k8JUhIEgeuI+gaC
+IQfBDqCQztanTxBMPoPcQ2v+tkdgNQAmkxC5PW82AcTrLPd+4BbjM4242RX158oT
+ZJvwThLvhRiZhlVM8Hn2HAIbbtPXkGh6LvyIq5Z3IKnKNM8oP0caHk9si/gq0pfy
+qAiUtdXfhxLBqRp/pRsIbKrjvyYsx8V5zWX7THSas8NBM129OcjYAP43d3qNhW4O
+cojpE2/1dQ2Qkxnr892oUG15DIaKTAOtbVasNyurob2+Vv86Pqq22HomCjFMrjqJ
+3v4a/NNjUKAKsUgM7vSq0x+mz4cCAwEAATANBgkqhkiG9w0BAQsFAAOCAQEALHE1
+xmy7wvR61HGIdIjS46p0s44ld3Xn1fVvFIyJ32Uo4Pxq6qZy+/c/2Hmfy8aQVaSr
+w7Fji91wPtbj1jGCpsd01r971as++9Lff0eyGefvWnhG4B5glKcy6PTxJwb1Wh0I
+ehs/VcdQT9S6RBk6OlUP+R8/ttMwZjvFsi7huh0u7s/TqbyxSntJMxfXu2hXLClW
+c22a4toCepfBFDzVrbCh/Y2++WNk8rD0L+8Kmg+UEpICQ+Y/o3Ih0OyKGVGleha5
+aWUYjGW2NG5X/zrkDNihINRTooCm4ppI4hjXuCynm5KkQ3i4tSA4wwEnG/knN0ex
+FC7MIzML5qOwbOmOww==</ds:X509Certificate></ds:X509Data></ds:KeyInfo></md:KeyDescriptor><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://id.identitymaster.it/saml/logout"/><md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://id.identitymaster.it/saml/logout"/><md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat><md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://aggregatorespid.testops.aruba.it/saml/SSO" index="0" isDefault="true"/><md:AttributeConsumingService index="0"><md:ServiceName xml:lang="it">Set0</md:ServiceName><md:ServiceDescription xml:lang="it">Set 0</md:ServiceDescription><md:RequestedAttribute Name="spidCode" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/><md:RequestedAttribute Name="name" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/><md:RequestedAttribute Name="familyName" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/><md:RequestedAttribute Name="fiscalNumber" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/><md:RequestedAttribute Name="ivaCode" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/><md:RequestedAttribute Name="companyName" NameFormat="urn:oasis:names:tc:SAML:2.0:attrname-format:basic"/></md:AttributeConsumingService></md:SPSSODescriptor><md:Organization><md:OrganizationName xml:lang="it">Organizzazione fittizia per il collaudo</md:OrganizationName><md:OrganizationDisplayName xml:lang="it">Organizzazione fittizia per il collaudo</md:OrganizationDisplayName><md:OrganizationURL xml:lang="it">https://pec.it</md:OrganizationURL></md:Organization><md:ContactPerson contactType="other" spid:entityType="spid:aggregator"><md:Extensions><spid:VATNumber>IT01879020517</spid:VATNumber><spid:FiscalCode>{aggregator.organizationIdentifierIva}}</spid:FiscalCode><spid:PublicServicesFullAggregator/></md:Extensions><md:Company>Aruba PEC S.p.A.</md:Company><md:EmailAddress>aruba@aruba.pec.it</md:EmailAddress><md:TelephoneNumber/></md:ContactPerson><md:ContactPerson contactType="other" spid:entityType="spid:aggregated"><md:Extensions><spid:IPACode/><spid:Public/></md:Extensions><md:Company>Organizzazione fittizia per il collaudo</md:Company></md:ContactPerson></md:EntityDescriptor>
